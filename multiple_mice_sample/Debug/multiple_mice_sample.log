@@ -1,0 +1,14 @@
+﻿Der Buildvorgang wurde am 07.07.2016 20:19:24 gestartet.
+     1>Projekt "D:\Projects\blog\multiple_mice\sample_project\multiple_mice_sample\multiple_mice_sample\multiple_mice_sample.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Application.cpp
+         Application.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\blog\multiple_mice\sample_project\multiple_mice_sample\Debug\multiple_mice_sample.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\Projects\blog\multiple_mice\sample_project\multiple_mice_sample\Lib opengl32.lib glfw3.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Projects\blog\multiple_mice\sample_project\multiple_mice_sample\Debug\multiple_mice_sample.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\blog\multiple_mice\sample_project\multiple_mice_sample\Debug\multiple_mice_sample.lib" /MACHINE:X86 Debug\Application.obj
+         Debug\Main.obj
+         multiple_mice_sample.vcxproj -> D:\Projects\blog\multiple_mice\sample_project\multiple_mice_sample\Debug\multiple_mice_sample.exe
+     1>Die Erstellung des Projekts "D:\Projects\blog\multiple_mice\sample_project\multiple_mice_sample\multiple_mice_sample\multiple_mice_sample.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:01.14
